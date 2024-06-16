@@ -1,7 +1,6 @@
 Learning infosec
 From France
-I love editing and coding
-I'm learning c++
-And JS soon
+I'm learning kernel mode dev
+
 
 

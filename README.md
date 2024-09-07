@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nxvertime&label=Profile%20views&color=0e75b6&style=flat" alt="nxvertime" /> </p>
 
-- 🔭 I’m currently working on [939-C2](github.com/nxvertime/939-C2)
+- 🔭 I’m currently working on [939-C2](https://www.github.com/nxvertime/939-C2)
 
 - 🌱 I’m currently learning **golang**
 

@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👾 Hi, i'm nxvertime)</h1>
+  <h1>👾 Hi, i'm nxvertime</h1>
   <p><strong>Kernel Security / Exploit Dev (both in training)</strong></p>
   <p>Low-level enthusiast • <code>0xc0ffeebabe</code></p>
 
@@ -12,7 +12,7 @@
 
 ### 👨‍💻 About Me
 
-Passionné par la cybersécurité offensive et la programmation système. Mon terrain de jeu favori se situe au niveau du **Ring 0**. Je me concentre actuellement sur l'exploitation du noyau Windows et le développement d'outils offensifs.
+Passionate about offensive cybersecurity and system programming. My favorite playground is located at Ring 0. I am currently focusing on Windows kernel exploitation and offensive tool development.
 
 - 🎯 **Objectives :** Kernel Exploitation & Reverse Engineering.
 - 🧠 **Learning :** Windows Internals, Driver Exploitation (HEVD), ROP chains.
